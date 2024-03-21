@@ -1,22 +1,21 @@
-# Thanh Phu
+# Bui Bao
 
-**Specialize**: Back-End Developer
+**Specialize**: Font-End Developer
 
 **Contact**:
-- 📞 +84123456789
+- 📞 +0969559408
 - ✉️ BuiBao.dev@gmail.com
 - 🔗 [lundevweb.com](https://lundevweb.com)
 
 **Information**:
 - From **HCMC** - VietNam
-- 09/10/2002
+- 05/02/2002
 - 0767617404
 - Hutech University
 
 ## INTRODUCE MYSELF
 
-Lập Trình viên fontend
-
+Lập Trình viên Font-End
 ## EXPERIENCE
 
 ### Frond-end Developer
