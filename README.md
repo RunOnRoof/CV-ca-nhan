@@ -50,22 +50,5 @@ Lập Trình viên Font-End
   - Tương Tác với API và Backend
   - Kiểm Thử và Sửa Lỗi
 
-### Website shopping
-- **Time**: 2020
-- **Website**: www.lundevweb.com
-- **Position**: Frond-end Developer
-- **Description**: Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto consequatur amet sed, est eum facilis repellendus atque perspiciatis iste porro nobis autem explicabo expedita fugiat nostrum. Eveniet eum autem culpa!
-  - Lorem ipsum dolordolores.
-  - Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, dolores.
-  - Lorem ipsum dolor sit amet consectetur dolores.
-
-### Website shopping
-- **Time**: 2020
-- **Website**: www.lundevweb.com
-- **Position**: Frond-end Developer
-- **Description**: Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto consequatur amet sed, est eum facilis repellendus atque perspiciatis iste porro nobis autem explicabo expedita fugiat nostrum. Eveniet eum autem culpa!
-  - Lorem ipsum dolordolores.
-  - Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, dolores.
-  - Lorem ipsum dolor sit amet consectetur dolores.
 
 Cảm ơn bạn đã xem xét hồ sơ của tôi
