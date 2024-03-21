@@ -44,10 +44,11 @@ Lập Trình viên Font-End
 - **Time**: 2023
 - **Website**: www.lundevweb.com
 - **Position**: Frond-end Developer
-- **Description**: Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto consequatur amet sed, est eum facilis repellendus atque perspiciatis iste porro nobis autem explicabo expedita fugiat nostrum. Eveniet eum autem culpa!
-  - Lorem ipsum dolordolores.
-  - Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, dolores.
-  - Lorem ipsum dolor sit amet consectetur dolores.
+- **Description**: 
+  - Phát Triển Giao Diện Người Dùng (UI) và Trải Nghiệm Người Dùng (UX)
+  - Xây Dựng và Tối Ưu Hóa Trang Web
+  - Tương Tác với API và Backend
+  - Kiểm Thử và Sửa Lỗi
 
 ### Website shopping
 - **Time**: 2020
@@ -67,4 +68,4 @@ Lập Trình viên Font-End
   - Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, dolores.
   - Lorem ipsum dolor sit amet consectetur dolores.
 
-Cảm ơn bạn đã xem xét hồ sơ của tô
+Cảm ơn bạn đã xem xét hồ sơ của tôi
